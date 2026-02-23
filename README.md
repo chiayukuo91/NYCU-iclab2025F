@@ -52,6 +52,6 @@
 | Lab12 | APRII for Static Timing Analysis |
 | Lab13 | Formal Verification |
 | Online Test | Matrix-Oriented Systolic (MOS) |
-| Mid Project | Central Processing Unit (CPU) |
+| [Mid Project](https://github.com/chiayukuo91/NYCU-iclab2025F/tree/be206ffffcdd4e5b9e53c657cca86eadffdccaf5/Mid%20Project) | Central Processing Unit (CPU) |
 | [Fin Project](https://github.com/chiayukuo91/NYCU-iclab2025F/tree/33a5900e629d2bed6da3a76889f20a4f354ff371/Fin%20Project) | Motion Vector Difference Matching (MVDM) |
 
