@@ -6,7 +6,15 @@
 * 設計方法論: Cell-Based Design, Top-Down Design Flow
 * 核心開發流程: 
    * RTL Coding: 組合電路與 FSM 狀態機設計
- * Synthesis: 使用 Synopsys Design Compiler 進行邏輯綜合
-- STA: 靜態時序分析 (Static Timing Analysis) 與跨時鐘域處理 (CDC)
-- APR: 自動佈局佈線 (From RTL to GDSII) 及 IR-Drop 分析
-- Verification: Testbench 編寫、Formal Verification (形式驗證)
+   * Synthesis: 使用 Synopsys Design Compiler 進行邏輯綜合
+   * STA: 靜態時序分析 (Static Timing Analysis) 與跨時鐘域處理 (CDC)
+   * APR: 自動佈局佈線 (From RTL to GDSII) 及 IR-Drop 分析
+   * Verification: Testbench 編寫、Formal Verification (形式驗證)
+---
+**專案與評量 (Evaluation)**
+此課程包含高度密集的實作練習，確保從理論轉化為實際晶片設計能力：
+每週實驗 (Weekly Exercises): 共 12 次 (佔比 60%) 
+期中專案 (Midterm Project): 獨立設計實作 (佔比 9%) 
+期末專案 (Final Project): 綜合性大型 IC 設計專案 (佔比 10%) 
+考試與測驗: 包含 Midterm/Final Exam 及 Online Test
+---
