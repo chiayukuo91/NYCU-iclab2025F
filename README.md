@@ -53,5 +53,5 @@
 | Lab13 | Formal Verification |
 | Online Test | Matrix-Oriented Systolic (MOS) |
 | Mid Project | Central Processing Unit (CPU) |
-| Fin Project | Motion Vector Difference Matching (MVDM) |
+| [Fin Project](Fin Project) | Motion Vector Difference Matching (MVDM) |
 
