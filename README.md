@@ -36,18 +36,22 @@
 | Bonus | System Verilog (Formal Verification) |
 
 ## 實驗總覽 
-| Lecture | Topic |
+| Lab | Topic |
 | --- | --- |
-| Lecture01 | Cell Based Design Methodology + Verilog Combinational Circuit Programming |
-| Lecture02 | Finite State Machine + Verilog Sequential Circuit Programming |
-| Lecture03 | List all new or modified files |
-| Lecture04 | Show file differences that haven't been staged |
-| Lecture05 | List all new or modified files |
-| Lecture06 | Show file differences that haven't been staged |
-| Lecture07 | List all new or modified files |
-| Lecture08 | Show file differences that haven't been staged |
-| Lecture09 | List all new or modified files |
-| Lecture10 | Show file differences that haven't been staged |
-| Lecture11 | List all new or modified files |
-| Lecture12 | Show file differences that haven't been staged |
-| Bonus | Show file differences that haven't been staged |
+| Lab01 | Multi-Packet Channel Arbiter(MPCA) |
+| Lab02 | Sudoku (SUDOKU) |
+| Lab03 | Convex Hull |
+| Lab04 | Convolution Neural Network |
+| Lab05 | H.264 Lite Prediction and Transform Engine (HLPTE) |
+| Lab06 | WinRate & Poker |
+| Lab07 | Number Theoretic Transform (NTT) |
+| Lab08 | Self-Attention with Determinant (SAD) |
+| Lab09 | Design: Role-Playing Game |
+| Lab10 | Verification: Role-Playing Game |
+| Lab11 | Geometric Transform Engine (GTE) |
+| Lab12 | APRII for Static Timing Analysis |
+| Lab13 | Formal Verification |
+| Online Test | Matrix-Oriented Systolic (MOS) |
+| Mid Project | Central Processing Unit (CPU) |
+| Fin Project | Motion Vector Difference Matching (MVDM) |
+
