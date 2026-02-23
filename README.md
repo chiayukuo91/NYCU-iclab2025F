@@ -13,10 +13,10 @@
 ---
 ## 專案與評量 (Evaluation)
 此課程包含高度密集的實作練習，確保從理論轉化為實際晶片設計能力：
-每週實驗 (Weekly Exercises): 共 12 次 (佔比 60%) 
-期中專案 (Midterm Project): 獨立設計實作 (佔比 9%) 
-期末專案 (Final Project): 綜合性大型 IC 設計專案 (佔比 10%) 
-考試與測驗: 包含 Midterm/Final Exam 及 Online Test
+* 每週實驗 (Weekly Exercises): 共 12 次 (佔比 60%) 
+* 期中專案 (Midterm Project): 獨立設計實作 (佔比 9%) 
+* 期末專案 (Final Project): 綜合性大型 IC 設計專案 (佔比 10%) 
+* 考試與測驗: 包含 Midterm/Final Exam 及 Online Test
 
 ## 課程內容
 | Lecture | Topic |
@@ -35,7 +35,7 @@
 | Lecture12 | APR II : IR-Drop Analysis |
 | Bonus | System Verilog (Formal Verification) |
 
-** 實驗總覽 **
+## 實驗總覽 
 | Lecture | Topic |
 | --- | --- |
 | Lecture01 | Cell Based Design Methodology + Verilog Combinational Circuit Programming |
