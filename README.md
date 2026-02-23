@@ -11,14 +11,14 @@
    * APR: 自動佈局佈線 (From RTL to GDSII) 及 IR-Drop 分析
    * Verification: Testbench 編寫、Formal Verification (形式驗證)
 ---
-** 專案與評量 (Evaluation) **
+## 專案與評量 (Evaluation)
 此課程包含高度密集的實作練習，確保從理論轉化為實際晶片設計能力：
 每週實驗 (Weekly Exercises): 共 12 次 (佔比 60%) 
 期中專案 (Midterm Project): 獨立設計實作 (佔比 9%) 
 期末專案 (Final Project): 綜合性大型 IC 設計專案 (佔比 10%) 
 考試與測驗: 包含 Midterm/Final Exam 及 Online Test
 
-** 課程內容 **
+## 課程內容
 | Lecture | Topic |
 | --- | --- |
 | Lecture01 | Cell Based Design Methodology + Verilog Combinational Circuit Programming |
